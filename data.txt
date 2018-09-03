@@ -1,0 +1,3 @@
+Ironhacker: "Eduardo Ruiz"
+Age: 25
+Favorite Color: "garnet"
